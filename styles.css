@@ -12,6 +12,10 @@ h1 {
   font-size: 100px;
 }
 
+h2{
+  font-size: 75px;
+}
+
 .container {
   margin: 60% auto;
 }
